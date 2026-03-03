@@ -4,7 +4,7 @@
 **Asha Patil**
 Project Title
 **Responsive Login & Dashboard UI**
-## 📝 Description (What Does It Do?)
+## 📝 Description
 This project is a responsive frontend web application built using **HTML, CSS, and JavaScript**.
 
 It includes:
